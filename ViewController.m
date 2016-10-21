@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    UIImageView * image = [[UIImageView alloc]init];
+    UILabel * label = [[UILabel alloc]init];
 }
 
 - (void)didReceiveMemoryWarning {
